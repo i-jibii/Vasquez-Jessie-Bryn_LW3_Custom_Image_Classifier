@@ -47,7 +47,8 @@
 *   **How can this system be integrated into a mobile or web application?**  
     We can export this model as a "TFLite" file for mobile apps or "TensorFlow.js" for websites. A user could then open their phone's camera in the app, and the model would analyze the live feed in real-time to overlay the name of the moss and the "96.9%" confidence level on the screen.
 
-    
+
+
 # Activity 3A: Improving and Evaluating a Custom Image Classifier
 
 # **Guide Questions (Student Explanation & Reflection)**
