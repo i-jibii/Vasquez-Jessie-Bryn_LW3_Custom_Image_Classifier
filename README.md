@@ -1,7 +1,6 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yZImS_Gc4DWplk1FdONKdHfKQ2z-pSo9?usp=sharing)
-
 # Laboratory Work 3 Activity — Building a Custom Image Classifier with
 TensorFlow Using Personal Image Datasets from Google Drive
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yZImS_Gc4DWplk1FdONKdHfKQ2z-pSo9?usp=sharing)
 
 # **Guide Questions (Student Reflection & Explanation)**
 
